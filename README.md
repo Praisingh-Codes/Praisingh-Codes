@@ -12,11 +12,11 @@
 
 📌 Data Analysis & Storytelling
 
-📌 Business Intelligence (Power BI, Tableau)
+📌 Business Intelligence
 
 📌 SQL Development & Data Modeling
 
-📌 Machine Learning & Deep Learning (LSTM, Time-Series Forecasting)
+📌 Machine Learning & Deep Learning
 
 📌 End-to-End Project Building
 
