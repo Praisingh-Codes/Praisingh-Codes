@@ -20,7 +20,7 @@
 
 📌 End-to-End Project Building
 
-📌 Automated Reporting (Excel, Python, Power BI)
+📌 Automated Reporting
 
 📌 Gradio Web App ML Deployment
 
