@@ -50,31 +50,3 @@ Machine Learning & Artificial Intelligence
 Tools & Environment
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-<h3 align="left">Competitive Programming Progress</h3>
-
-
-<table>
-<tr>
-
-  <!-- LeetCode Stats (left) -->
-  <td align="center" width="50%">
-    <a href="https://leetcode.com/Praisingh-Codes/">
-      <img src="https://leetcard.jacoblin.cool/Praisingh-Codes" width="400">
-    </a>
-  </td>
-
-  <!-- Streak Stats (right) -->
-  <td align="center" width="50%">
-    <a href="https://github.com/Praisingh-Codes">
-      <img src="https://streak-stats.demolab.com/?user=Praisingh-Codes&theme=default&background=FFFFFF&border=E5E5E5&ring=00C853&fire=FFA726&currStreakNum=000000&sideNums=000000&currStreakLabel=00C853&sideLabels=555555&dates=777777&card_height=200" 
-      width="400">
-    </a>
-  </td>
-
-</tr>
-</table>
-
-
-<img src="https://raw.githubusercontent.com/raj03kumar/raj03kumar/main/assets/light.gif" width="100%"/>
